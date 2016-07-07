@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_6200_k16.lab.author</name>
+        <read_roles/>
+        <suffix>lab.author</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>dominik.simunek</sys_created_by>
+        <sys_created_on>2016-07-07 14:52:53</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>6c4eba5c4f60e600aa5fb7a18110c738</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_6200_k16.lab.author</sys_name>
+        <sys_package display_value="K16" source="x_6200_k16">7f7876d44f60e600aa5fb7a18110c71e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="K16">7f7876d44f60e600aa5fb7a18110c71e</sys_scope>
+        <sys_update_name>sys_properties_6c4eba5c4f60e600aa5fb7a18110c738</sys_update_name>
+        <sys_updated_by>dominik.simunek</sys_updated_by>
+        <sys_updated_on>2016-07-07 14:52:53</sys_updated_on>
+        <type>string</type>
+        <value>Dooma</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=6c4eba5c4f60e600aa5fb7a18110c738"/>
+</record_update>
