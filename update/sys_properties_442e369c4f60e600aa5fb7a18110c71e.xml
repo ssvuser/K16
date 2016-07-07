@@ -5,26 +5,26 @@
         <description/>
         <ignore_cache>false</ignore_cache>
         <is_private>false</is_private>
-        <name>x_6200_k16.lab.author</name>
+        <name>x_6200_k16.logging.destination</name>
         <read_roles/>
-        <suffix>lab.author</suffix>
+        <suffix>logging.destination</suffix>
         <sys_class_name>sys_properties</sys_class_name>
         <sys_created_by>dominik.simunek</sys_created_by>
-        <sys_created_on>2016-07-07 14:52:53</sys_created_on>
+        <sys_created_on>2016-07-07 14:52:23</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
-        <sys_id>3a9cf65b4f50a600aa5fb7a18110c70a</sys_id>
+        <sys_id>442e369c4f60e600aa5fb7a18110c71e</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_6200_k16.lab.author</sys_name>
+        <sys_name>x_6200_k16.logging.destination</sys_name>
         <sys_package display_value="K16" source="x_6200_k16">7f7876d44f60e600aa5fb7a18110c71e</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="K16">7f7876d44f60e600aa5fb7a18110c71e</sys_scope>
-        <sys_update_name>sys_properties_3a9cf65b4f50a600aa5fb7a18110c70a</sys_update_name>
+        <sys_update_name>sys_properties_442e369c4f60e600aa5fb7a18110c71e</sys_update_name>
         <sys_updated_by>dominik.simunek</sys_updated_by>
-        <sys_updated_on>2016-07-07 14:52:53</sys_updated_on>
+        <sys_updated_on>2016-07-07 14:52:23</sys_updated_on>
         <type>string</type>
-        <value>Dooma</value>
+        <value>file</value>
         <write_roles/>
     </sys_properties>
-    <sys_translated_text action="delete_multiple" query="documentkey=3a9cf65b4f50a600aa5fb7a18110c70a"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=442e369c4f60e600aa5fb7a18110c71e"/>
 </record_update>
